@@ -68,7 +68,7 @@ authentification avec OAuth 2.0 et Google :
 <img width="960" alt="Capture d'écran 2024-01-14 122604" src="https://github.com/imadett88/Spring-Microservices-Security-using-Oauth2-OIDC-with-Keycloak/assets/83021588/3a1fbb04-c1e7-4e27-b0ea-abf3ba421797">
 
 /auth avec Github :
-<img width="960" alt="Capture d'écran 2024-01-14 123445" src="https://github.com/imadett88/Spring-Microservices-Security-using-Oauth2-OIDC-with-Keycloak/assets/83021588/ab8d8799-4749-449c-80ef-cf891f76cd79">
+![image1111](https://github.com/LAAFOU-Nisrine/S-curit-Oauth2-OIDC-JWT-Keycloak/assets/155231145/0b90843d-a76a-42f3-be9b-32a5e837e825)
 
 
 /auth avec Keycloak :
