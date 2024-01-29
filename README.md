@@ -1,5 +1,5 @@
 # S-curit-Oauth2-OIDC-JWT-Keycloak
-![logo-1](https://github.com/LAAFOU-Nisrine/S-curit-Oauth2-OIDC-JWT-Keycloak/assets/155231145/cad50c67-28bc-4535-9df7-392f29e59f61)
+
 Activité Pratique N°7 : Sécurité Oauth2, OIDC, JWT, Keycloak
 Travail à faire (Voir vidéo : https://www.youtube.com/watch?v=vNKVm2vTL2Q):
 Partie 1 : (Traiter uniquement les 49 premières minutes de la vidéo)
